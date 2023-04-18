@@ -21,7 +21,7 @@ def read_image(filename, representation):
     Reads an image and converts it into a given representation
     :param filename: filename of image on disk
     :param representation: 1 for greyscale and 2 for RGB
-    :return: Returns the image as an np.float64 matrix normalized to [0,1]
+    :return: Returns the image as a np.float64 matrix normalized to [0,1]
     """
     image = imread(filename)
     image = image.astype(np.float64)
