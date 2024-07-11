@@ -16,7 +16,7 @@ scipy==1.9.3
 ## Installation
 You can simply clone the repository and import the functions to your code:
 ```
-git clone https://github.com/IsraelBenDavid/Image-Processing-ex1.git
+git clone https://github.com/IsraelBenDavid/Image-Equalization-And-Quantization.git
 ```
 
 ## Examples
